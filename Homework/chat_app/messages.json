@@ -1,0 +1,26 @@
+[
+  {
+    "time": "2024-12-24T20:41:45.484800",
+    "client_id": "Client_2661932424720",
+    "message": "Добро пожаловать в чат!",
+    "sender": "server"
+  },
+  {
+    "time": "2024-12-24T20:41:51.205276",
+    "client_id": "Client_2661932481360",
+    "message": "Добро пожаловать в чат!",
+    "sender": "server"
+  },
+  {
+    "time": "2024-12-24T20:41:52.392470",
+    "client_id": "Client_2661932481360",
+    "message": "asd",
+    "sender": "client"
+  },
+  {
+    "time": "2024-12-24T20:41:53.658034",
+    "client_id": "Client_2661932424720",
+    "message": "asd",
+    "sender": "client"
+  }
+]
